@@ -47,4 +47,4 @@ Contributors names
 1. Hanifah Santoso (2020-099)
 2. Sakinah Aulia Rahmah Putri Adnan (2020-119)
 
-Project Link : https://github.com/sakinahaulia153/Dataset-Daun-Pepaya-dan-Seledri_-099_119
+Project Link : https://github.com/sakinahaulia153/UTS-AI
